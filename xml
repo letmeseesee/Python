@@ -1,0 +1,14 @@
+<data>
+    <country name="Liechtenstein">
+        <rank update="Austria">123</rank>
+        <year update="YES">2015</year>
+        <gdppc>599900</gdppc>
+        <neighbor direction="E" name="am" />
+    </country>
+     <country name="Liechtenstein1">
+        <rank update="Austria">1234</rank>
+        <year update="YES">2016</year>
+        <gdppc>599900</gdppc>
+        <neighbor direction="W" name="amc" />
+    </country>
+</data>
